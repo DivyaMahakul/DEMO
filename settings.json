@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib 1/jade.jar",
+        "lib 1/jadeExamples.jar",
+        "lib 1/commons-codec-1.3.jar"
+    ]
+}
